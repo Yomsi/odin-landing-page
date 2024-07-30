@@ -3,3 +3,42 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+/* Style Classes - Color and fonts for elements based on image 2*/
+
+.hero-bg,.footer-bg{
+    background-color: #1F2937;
+}
+
+.hero-main-text{
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
+.hero-secondary-text, .header-link-text{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header-logo-text{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.button-color{
+    color: #3882F6;
+}
+.call-to-action-bg{
+    background-color: #3882F6;
+}
+
+.quote-bg{
+    background-color: #E5E7EB;
+}
+
+.quote-text{
+    font: 36px light italic #172937;
+}
+
+/* Page layout */
