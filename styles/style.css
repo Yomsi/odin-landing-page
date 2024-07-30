@@ -11,7 +11,7 @@
     font-family: "Roboto", sans-serif;
 }
 
-/* Style Classes - Color and fonts for elements based on image 2*/
+/* STYLE CLASSES - Color and fonts for elements based on image 2*/
 
 .hero-bg,.footer-bg{
     background-color: #1F2937;
@@ -50,11 +50,35 @@
 }
 
 
-/* Style element */
+/* STYLE ELEMENT */
+header{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+#nav-bar, #website-is-awesome{
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#nav-bar ul{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+}
+
 header img{
     width: 500px;
     height: auto;
 }
 
 
-/* Page layout */
+
+
+
+
+
+
+
