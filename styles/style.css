@@ -23,9 +23,10 @@
     color: #F9FAF8;
 }
 
-.hero-secondary-text, .header-link-text{
+.hero-secondary-text, .header-link-text a{
     font-size: 18px;
     color: #E5E7EB;
+    text-decoration: none;
 }
 
 .header-logo-text{
@@ -47,5 +48,13 @@
 .quote-text{
     font: 36px light italic #172937;
 }
+
+
+/* Style element */
+header img{
+    width: 500px;
+    height: auto;
+}
+
 
 /* Page layout */
